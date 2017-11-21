@@ -123,8 +123,10 @@ blockquote p {
 }
 
 .author img {
-  width: 10%;
-  height: 10%;
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+  height: 30%;
   -webkit-border-radius: 50%;
           border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
